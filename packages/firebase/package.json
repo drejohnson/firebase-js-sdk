@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "git-rev-sync": "1.12.0",
-    "rollup": "1.11.0",
+    "rollup": "1.11.3",
     "rollup-plugin-commonjs": "9.3.4",
     "rollup-plugin-license": "0.8.1",
     "rollup-plugin-node-resolve": "4.2.3",
